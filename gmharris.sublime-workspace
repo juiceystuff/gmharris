@@ -1,0 +1,434 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"ff",
+				"ff9933"
+			],
+			[
+				"font",
+				"font-variant"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"Ma",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"i",
+				"id	Attr"
+			],
+			[
+				"al",
+				"align	Attr"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"im",
+				"border-image-width"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"B",
+				"Budget"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"req",
+				"requirements"
+			],
+			[
+				"reu",
+				"requirements"
+			],
+			[
+				"com",
+				"company"
+			],
+			[
+				"a",
+				"action	Attr"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/jquery.tubular.js",
+			"settings":
+			{
+				"buffer_size": 6016,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"FTPSync: Setup FTPSync in this folder"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"git",
+			"package control:",
+			"package contril:",
+			"package ",
+			"Package Control: Install Package",
+			"Package",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/gmharris/js"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/Juiceystuff/footer.php",
+		"/Applications/MAMP/htdocs/Juiceystuff/css/main.css",
+		"/Applications/MAMP/htdocs/Juiceystuff/ftpsync.settings",
+		"/Applications/MAMP/htdocs/Juiceystuff/index.php",
+		"/Applications/MAMP/htdocs/Juiceystuff/header.php",
+		"/Users/Gareth/Desktop/juiceystuff.sublime-project",
+		"/Users/Gareth/Downloads/make-a-div-stick-to-top-when-scrolled-to.php",
+		"/Applications/MAMP/htdocs/Juiceystuff/css/ftpsync.settings",
+		"/Applications/MAMP/htdocs/juiceystuff/ftpsync.settings",
+		"/Applications/MAMP/htdocs/juiceystuff/js/menu.js",
+		"/Applications/MAMP/htdocs/Juiceystuff/ftpsync.setting",
+		"/Applications/MAMP/htdocs/Juiceystuff/quote.php",
+		"/Applications/MAMP/htdocs/Juiceystuff/css/main1.css",
+		"/Applications/MAMP/htdocs/Juiceystuff/about.php",
+		"/Applications/MAMP/htdocs/Juiceystuff/latest.php",
+		"/Users/Gareth/Downloads/simple-parallax-scrolling-tutorial-s/index.html",
+		"/Users/Gareth/Desktop/jengarweb.sublime-project",
+		"/Users/Gareth/Downloads/foundation-icons/preview.html",
+		"/Users/Gareth/Downloads/foundation-essentials-5.4.0/index.html",
+		"/Applications/MAMP/htdocs/Juiceystuff/header1.php",
+		"/Applications/MAMP/htdocs/jengarweb/fonts/entypo.eot",
+		"/Users/Gareth/Desktop/jengarweb.sublime-workspace",
+		"/Applications/MAMP/htdocs/jengarweb/test.php",
+		"/Applications/MAMP/htdocs/jengarweb/images/jw_logo.svg",
+		"/Applications/MAMP/htdocs/Juiceystuff/gwentbiz.php",
+		"/Applications/MAMP/htdocs/Juiceystuff/template_showoff.php",
+		"/Applications/MAMP/htdocs/Juiceystuff/header2.php",
+		"/Volumes/BACKUP/Home/htdocs/debt/index.html",
+		"/Volumes/BACKUP/Home/htdocs/debt/main.css",
+		"/Applications/MAMP/htdocs/Juiceystuff/help.txt",
+		"/Applications/MAMP/htdocs/Juiceystuff/error404.html",
+		"/Users/Gareth/Library/Application Support/Sublime Text 3/Packages/FTPSync/FTPSync.sublime-settings",
+		"/Users/Gareth/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/Gareth/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Gareth/Documents/sublime.html",
+		"/Users/Gareth/Downloads/PHP, jQuery, and AJAX Powered Contact Form/example.htm",
+		"/Volumes/html/juiceystuff/htdocs/css/gumby1.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"0px",
+			";\"></",
+			"80px",
+			"1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/jquery.tubular.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 6016,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"project": "gmharris.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
